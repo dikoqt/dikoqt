@@ -1,16 +1,20 @@
-## Hi there 👋
+✨ Who am I?
+I'm a passionate Fullstack Web Developer who loves building awesome web applications. I also run a Telegram channel where I teach web coding tutorials to help others learn and grow in web development.
 
-<!--
-**dikoqt/dikoqt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I Do
+🔥 Fullstack web development (Frontend & Backend)
+🎥 Create web coding tutorials on my 
+💡 Love working with modern web technologies
+🛠️ Always experimenting with new tools & frameworks
 
-Here are some ideas to get you started:
+###💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Telegraf.js](https://img.shields.io/badge/Telegraf.js-1F9EFA?style=flat&logo=telegram&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Let's Connect
+
+Telegram: [dikoqt](https://t.me/dikoqt)
+Email : [Send email](line.ytnc@gmail.com)
+GitHub : [Here!](https://github.com/dikoqt/)
