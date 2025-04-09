@@ -1,10 +1,15 @@
 ⚡ Who am I?
+
 I'm a passionate Fullstack Web Developer who loves building awesome web applications. I also run a Telegram channel where I teach web coding tips to help others learn and grow in web development.
 
 🚀 What I Do
+
 🔥 Fullstack web development (Frontend & Backend)
+
 💡 Love working with modern web technologies
+
 🛠️ Always experimenting with new tools & frameworks
+
 
 💻 Tech Stack
 
@@ -24,5 +29,7 @@ I'm a passionate Fullstack Web Developer who loves building awesome web applicat
 💬 Let's Connect
 
 Telegram: [dikoqt](https://t.me/dikoqt)
+
 Email : [Send email](line.ytnc@gmail.com)
+
 GitHub : [Here!](https://github.com/dikoqt/)
